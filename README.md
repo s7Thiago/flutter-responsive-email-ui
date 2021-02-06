@@ -1,7 +1,5 @@
 # Outlook Email App Redesign - Flutter Fully Responsive Design UI
 
-## [Watch it on YouTube](https://youtu.be/0mp-Ok00WZE)
-
 **Packages we are using:**
 
 - websafe_svg: [link](https://pub.dev/packages/websafe_svg)
