@@ -1,8 +1,35 @@
-# Outlook Email App Redesign - Flutter Fully Responsive Design UI
+# # Outlook App Redesign
 
-**Packages we are using:**
+An Flutter Fully Responsive Design UI Outlook inspired.
 
-- websafe_svg: [link](https://pub.dev/packages/websafe_svg)
-- flutter_staggered_grid_view: [link](https://pub.dev/packages/flutter_staggered_grid_view)
+## Project Status
 
-We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web. In this flutter responsive video, we will show you the real power of flutter. Make mobile, web, and desktop app from a single codebase.
+This project is just a personal showcase, done with de aim of register what i have studied, and show my skills. It may receives improvements in the future.
+
+## Project Screen Shots
+
+| Home Page                         | Drawer                              | Details                              |
+| --------------------------------- | ----------------------------------- | ------------------------------------ |
+| ![](assets/images/shots/home.png) | ![](assets/images/shots/drawer.png) | ![](assets/images/shots/details.png) |
+
+
+
+| Layout Responsiveness                       |
+| ------------------------------------------- |
+| ![](assets/images/shots/responsiveness.gif) |
+
+## Installation and Setup Instructions
+
+Clone down this repository. You will need `Flutter` and `Dart` installed globally on your machine.
+
+Installation:
+
+`flutter pub get install` on the project root.
+
+To Run the android application:
+
+`flutter run -d <device or emulator id>`
+
+To build a android release:
+
+`flutter build apk` the package will be generated on **./build/app/outputs/flutter-apk/app-release.apk**
